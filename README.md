@@ -23,7 +23,7 @@
 <!-- PROFILE METRICS -->
 <div align="center">
 
-<img src="https://komarev.com/ghpvc/?username=Vaidiasri&style=for-the-badge&color=0E75B6&label=PROFILE+VIEWS" alt="Profile Views"/>
+<img src="https://visitor-badge.laobi.icu/badge?page_id=Vaidiasri.Vaidiasri&left_text=PROFILE%20VIEWS&left_color=%23555555&right_color=%230E75B6" alt="Profile Views"/>
 &nbsp;&nbsp;
 <img src="https://img.shields.io/github/followers/Vaidiasri?style=for-the-badge&color=007ACC&logo=github&label=FOLLOWERS" alt="Followers"/>
 &nbsp;&nbsp;
