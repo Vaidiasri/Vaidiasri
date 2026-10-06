@@ -10,7 +10,7 @@
 
 <!-- PROFESSIONAL TYPING ANIMATION -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&duration=3000&pause=800&color=00D4FF&center=true&vCenter=true&multiline=true&width=900&height=120&lines=🚀+Building+Scalable+Production-Grade+Web+Applications;⚛️+React+%7C+Next.js+%7C+TypeScript+%7C+Node.js+%7C+FastAPI;🤖+Exploring+Generative+AI%2C+LLMs%2C+RAG+%26+AI+Agents;📊+Building+Analytics%2C+Reporting+%26+Real-Time+Systems;💼+Full+Stack+Developer+with+1%2B+Years+of+Professional+Experience" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&duration=3000&pause=800&color=00D4FF&center=true&vCenter=true&multiline=true&width=900&height=120&lines=%F0%9F%9A%80+Building+Scalable+Production-Grade+Web+Applications;%E2%9A%9B%EF%B8%8F+React+%7C+Next.js+%7C+TypeScript+%7C+Node.js+%7C+FastAPI;%F0%9F%A4%96+Exploring+Generative+AI%2C+LLMs%2C+RAG+%26+AI+Agents;%F0%9F%93%8A+Building+Analytics%2C+Reporting+%26+Real-Time+Systems;%F0%9F%92%BC+Full+Stack+Developer+with+1%2B+Years+of+Professional+Experience" alt="Typing SVG"/>
 </a>
 
 <br/><br/>
