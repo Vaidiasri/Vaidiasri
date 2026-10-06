@@ -4,13 +4,13 @@
 <!--                    ELITE ANIMATED HEADER                       -->
 <!-- ═══════════════════════════════════════════════════════════════ -->
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=0,2,2,5,30&height=240&section=header&text=VAIBHAV%20GHILDIYAL&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=⚡%20Full%20Stack%20Developer%20%7C%20AI%20%26%20GenAI%20Developer%20%7C%20React%20%7C%20Next.js%20%7C%20FastAPI&descSize=17&descAlignY=65&descColor=00D4FF" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=0,2,2,5,30&height=240&section=header&text=VAIBHAV%20GHILDIYAL&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=⚡%20Full%20Stack%20Developer%20%7C%20AI%20%26amp%3B%20GenAI%20Developer%20%7C%20React%20%7C%20Next.js%20%7C%20FastAPI&descSize=17&descAlignY=65&descColor=00D4FF" width="100%"/>
 
 <br/>
 
 <!-- PROFESSIONAL TYPING ANIMATION -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&duration=3000&pause=800&color=00D4FF&center=true&vCenter=true&multiline=true&width=900&height=120&lines=%F0%9F%9A%80+Building+Scalable+Production-Grade+Web+Applications;%E2%9A%9B%EF%B8%8F+React+%7C+Next.js+%7C+TypeScript+%7C+Node.js+%7C+FastAPI;%F0%9F%A4%96+Exploring+Generative+AI%2C+LLMs%2C+RAG+%26+AI+Agents;%F0%9F%93%8A+Building+Analytics%2C+Reporting+%26+Real-Time+Systems;%F0%9F%92%BC+Full+Stack+Developer+with+1%2B+Years+of+Professional+Experience" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&duration=3000&pause=800&color=00D4FF&center=true&vCenter=true&multiline=true&width=900&height=145&lines=%F0%9F%9A%80+Building+Scalable+Production-Grade+Web+Applications;%E2%9A%9B%EF%B8%8F+React+%7C+Next.js+%7C+TypeScript+%7C+Node.js+%7C+FastAPI;%F0%9F%A4%96+Exploring+Generative+AI%2C+LLMs%2C+RAG+%26+AI+Agents;%F0%9F%93%8A+Building+Analytics%2C+Reporting+%26+Real-Time+Systems;%F0%9F%92%BC+Full+Stack+Developer+with+1%2B+Years+of+Professional+Experience" alt="Typing SVG"/>
 </a>
 
 <br/><br/>
